@@ -59,7 +59,7 @@ export const BASEROW = {
   // Este token estará visible en GitHub. Para proyectos educativos
   // sin datos sensibles está bien, pero SIEMPRE configura el token
   // con permisos de solo LECTURA en Baserow.
-  token: import.meta.env.VITE_BASEROW_TOKEN || 'F9fpfDbg8koaIRSMtedFDDB1DMN2QEgIC9N',
+  token: import.meta.env.VITE_BASEROW_TOKEN || 'pfDbg8koaIRSMtedFDDB1DMN2QEgIC9N',
 
   // El ID de tu base de datos Baserow
   // Cómo conseguirlo:
